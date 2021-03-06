@@ -25,6 +25,8 @@ What Needs Work
 
 CHANGELOG
 ============
+##March 6th, 2021
+- Starting work on some theme areas
 
 ##May 1st, 2018
 - We are now live!
