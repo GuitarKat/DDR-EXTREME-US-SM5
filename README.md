@@ -8,7 +8,7 @@
 
 
 # DDR-EXTREME-US-SM5
-SM5 Theme of DDR Extreme USA's UI
+SM5 Theme of DDR Extreme USA's UI - But with a few GuitarKat wish changes.
 
 Graphics:
 ============
@@ -17,17 +17,16 @@ Graphics:
 Coding:
 ============
  - SM5: Inorizushi, FlameyBoy
+ - SM5 GuitarKat fork: GuitarKat
 
 What Needs Work
 ===========
+- Enchancements
 - ScreenEvaluation(Fix Course & Summary)
 - ScreenGameplay(Mod Icons, Fix Extra & Course elements)
 
 CHANGELOG
 ============
-##March 6th, 2021
-- Starting work on some theme areas
-
 ##May 1st, 2018
 - We are now live!
 - I recommend using the theme only with Event Mode for now.
